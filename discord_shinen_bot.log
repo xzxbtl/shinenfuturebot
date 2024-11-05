@@ -1,0 +1,61 @@
+2024-11-04 10:09:45 - ERROR - log.py:39 - [31mError in main code = Client.__init__() got an unexpected keyword argument 'command_prefix'[0m
+2024-11-04 10:09:54 - ERROR - log.py:39 - [31mError in main code = Client.__init__() got an unexpected keyword argument 'help_command'[0m
+2024-11-04 10:22:38 - ERROR - log.py:39 - [31mError in main code = Extension 'cogs.embeds' raised an error: TypeError: `default_member_permissions` cannot be a bool[0m
+2024-11-04 11:13:50 - ERROR - log.py:39 - [31mError in main.py code = Extension 'cogs.embeds' raised an error: TypeError: <class 'disnake.interactions.base.Interaction'> is not a valid parameter annotation[0m
+2024-11-04 11:13:50 - ERROR - log.py:39 - [31mError in main.py code = Extension 'cogs.embeds' raised an error: TypeError: <class 'disnake.interactions.base.Interaction'> is not a valid parameter annotation[0m
+2024-11-04 11:14:53 - ERROR - log.py:39 - [31mError in main.py code = Extension 'cogs.embeds' raised an error: TypeError: <class 'disnake.interactions.base.Interaction'> is not a valid parameter annotation[0m
+2024-11-04 11:14:53 - ERROR - log.py:39 - [31mError in main.py code = Extension 'cogs.embeds' raised an error: TypeError: <class 'disnake.interactions.base.Interaction'> is not a valid parameter annotation[0m
+2024-11-04 11:15:24 - ERROR - log.py:39 - [31mError in main.py code = Extension 'cogs.embeds' raised an error: TypeError: <class 'disnake.interactions.base.Interaction'> is not a valid parameter annotation[0m
+2024-11-04 11:15:24 - ERROR - log.py:39 - [31mError in main.py code = Extension 'cogs.embeds' raised an error: TypeError: <class 'disnake.interactions.base.Interaction'> is not a valid parameter annotation[0m
+2024-11-04 11:15:38 - ERROR - log.py:39 - [31mError in main.py code = Extension 'cogs.join' raised an error: TypeError: <class 'disnake.interactions.base.Interaction'> is not a valid parameter annotation[0m
+2024-11-04 11:15:38 - ERROR - log.py:39 - [31mError in main.py code = Extension 'cogs.join' raised an error: TypeError: <class 'disnake.interactions.base.Interaction'> is not a valid parameter annotation[0m
+2024-11-04 11:16:29 - ERROR - log.py:39 - [31mError in main.py code = maximum recursion depth exceeded[0m
+2024-11-04 11:16:29 - ERROR - log.py:39 - [31mError in main.py code = maximum recursion depth exceeded[0m
+2024-11-04 11:17:20 - ERROR - log.py:39 - [31mVoice channel join error: maximum recursion depth exceeded[0m
+2024-11-04 11:17:20 - ERROR - log.py:39 - [31mVoice channel join error: maximum recursion depth exceeded[0m
+2024-11-04 11:18:06 - ERROR - log.py:39 - [31mError in main.py code = maximum recursion depth exceeded[0m
+2024-11-04 11:18:06 - ERROR - log.py:39 - [31mError in main.py code = maximum recursion depth exceeded[0m
+2024-11-04 11:18:18 - ERROR - log.py:39 - [31mVoice channel join error: maximum recursion depth exceeded[0m
+2024-11-04 11:18:18 - ERROR - log.py:39 - [31mVoice channel join error: maximum recursion depth exceeded[0m
+2024-11-04 11:19:21 - ERROR - log.py:39 - [31mError in main.py code = maximum recursion depth exceeded[0m
+2024-11-04 11:19:21 - ERROR - log.py:39 - [31mError in main.py code = maximum recursion depth exceeded[0m
+2024-11-04 11:19:22 - ERROR - log.py:39 - [31mError in main.py code = Extension 'cogs.join' raised an error: NameError: name 'disnake' is not defined[0m
+2024-11-04 11:19:22 - ERROR - log.py:39 - [31mError in main.py code = Extension 'cogs.join' raised an error: NameError: name 'disnake' is not defined[0m
+2024-11-04 11:19:25 - ERROR - log.py:39 - [31mError in main.py code = Extension 'cogs.join' raised an error: NameError: name 'disnake' is not defined[0m
+2024-11-04 11:19:25 - ERROR - log.py:39 - [31mError in main.py code = Extension 'cogs.join' raised an error: NameError: name 'disnake' is not defined[0m
+2024-11-04 11:19:45 - ERROR - log.py:39 - [31mVoice channel join error: maximum recursion depth exceeded[0m
+2024-11-04 11:19:45 - ERROR - log.py:39 - [31mVoice channel join error: maximum recursion depth exceeded[0m
+2024-11-04 11:19:47 - ERROR - log.py:39 - [31mError in main.py code = maximum recursion depth exceeded[0m
+2024-11-04 11:19:47 - ERROR - log.py:39 - [31mError in main.py code = maximum recursion depth exceeded[0m
+2024-11-04 11:44:03 - ERROR - log.py:39 - [31mfailed to left from voice channel, code = Already connected to a voice channel.[0m
+2024-11-04 11:44:03 - ERROR - log.py:39 - [31mfailed to left from voice channel, code = Already connected to a voice channel.[0m
+2024-11-04 11:45:10 - ERROR - log.py:39 - [31mfailed to left from voice channel, code = 'VoiceChannel' object has no attribute 'disconnect'[0m
+2024-11-04 11:45:10 - ERROR - log.py:39 - [31mfailed to left from voice channel, code = 'VoiceChannel' object has no attribute 'disconnect'[0m
+2024-11-04 11:45:31 - ERROR - log.py:39 - [31mfailed to left from voice channel, code = 'VoiceChannel' object has no attribute 'disconnect'[0m
+2024-11-04 11:45:31 - ERROR - log.py:39 - [31mfailed to left from voice channel, code = 'VoiceChannel' object has no attribute 'disconnect'[0m
+2024-11-04 11:46:03 - ERROR - log.py:39 - [31mfailed to left from voice channel, code = 'NoneType' object has no attribute 'disconnect'[0m
+2024-11-04 11:46:03 - ERROR - log.py:39 - [31mfailed to left from voice channel, code = 'NoneType' object has no attribute 'disconnect'[0m
+2024-11-04 11:46:20 - ERROR - log.py:39 - [31mfailed to left from voice channel, code = 'NoneType' object has no attribute 'disconnect'[0m
+2024-11-04 11:46:20 - ERROR - log.py:39 - [31mfailed to left from voice channel, code = 'NoneType' object has no attribute 'disconnect'[0m
+2024-11-04 11:47:44 - ERROR - log.py:39 - [31mUser is not in a voice channel[0m
+2024-11-04 11:47:44 - ERROR - log.py:39 - [31mUser is not in a voice channel[0m
+2024-11-04 11:49:12 - ERROR - log.py:39 - [31mFailed to join voice channel, code = 'NoneType' object has no attribute 'channel'[0m
+2024-11-04 11:49:12 - ERROR - log.py:39 - [31mFailed to join voice channel, code = 'NoneType' object has no attribute 'channel'[0m
+2024-11-04 11:50:17 - ERROR - log.py:39 - [31mFailed to leave voice channel: 'NoneType' object has no attribute 'disconnect'[0m
+2024-11-04 11:50:17 - ERROR - log.py:39 - [31mFailed to leave voice channel: 'NoneType' object has no attribute 'disconnect'[0m
+2024-11-04 11:51:14 - ERROR - log.py:39 - [31mFailed to leave voice channel: 'NoneType' object has no attribute 'disconnect'[0m
+2024-11-04 11:51:14 - ERROR - log.py:39 - [31mFailed to leave voice channel: 'NoneType' object has no attribute 'disconnect'[0m
+2024-11-04 11:52:01 - ERROR - log.py:39 - [31mFailed to leave voice channel: Already connected to a voice channel.[0m
+2024-11-04 11:52:01 - ERROR - log.py:39 - [31mFailed to leave voice channel: Already connected to a voice channel.[0m
+2024-11-04 11:56:34 - ERROR - log.py:39 - [31mFailed to leave voice channel: Already connected to a voice channel.[0m
+2024-11-04 11:56:34 - ERROR - log.py:39 - [31mFailed to leave voice channel: Already connected to a voice channel.[0m
+2024-11-04 11:57:53 - ERROR - log.py:39 - [31mFailed to leave voice channel: Already connected to a voice channel.[0m
+2024-11-04 11:57:53 - ERROR - log.py:39 - [31mFailed to leave voice channel: Already connected to a voice channel.[0m
+2024-11-04 11:57:59 - ERROR - log.py:39 - [31mFailed to join voice channel, code = Already connected to a voice channel.[0m
+2024-11-04 11:57:59 - ERROR - log.py:39 - [31mFailed to join voice channel, code = Already connected to a voice channel.[0m
+2024-11-04 11:58:03 - ERROR - log.py:39 - [31mFailed to leave voice channel: Already connected to a voice channel.[0m
+2024-11-04 11:58:03 - ERROR - log.py:39 - [31mFailed to leave voice channel: Already connected to a voice channel.[0m
+2024-11-04 11:58:34 - ERROR - log.py:39 - [31mFailed to leave voice channel: Already connected to a voice channel.[0m
+2024-11-04 11:58:34 - ERROR - log.py:39 - [31mFailed to leave voice channel: Already connected to a voice channel.[0m
+2024-11-04 12:02:20 - ERROR - log.py:39 - [31mError in main.py code = Extension 'cogs.join' raised an error: TypeError: JoinAndExit.__init__() missing 1 required positional argument: 'voice_lock'[0m
+2024-11-04 12:02:20 - ERROR - log.py:39 - [31mError in main.py code = Extension 'cogs.join' raised an error: TypeError: JoinAndExit.__init__() missing 1 required positional argument: 'voice_lock'[0m
